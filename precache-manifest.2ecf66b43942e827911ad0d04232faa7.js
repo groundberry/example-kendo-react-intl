@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/example-kendo-react-intl/static/js/2030.1b0d89d7.chunk.js"
   },
   {
-    "revision": "73c4262f703654489d49",
+    "revision": "2cfe6bd2d2ce55dec07c",
     "url": "/example-kendo-react-intl/static/css/main.380f2748.chunk.css"
   },
   {
@@ -8124,8 +8124,8 @@ self.__precacheManifest = [
     "url": "/example-kendo-react-intl/static/js/2029.e4fc8c35.chunk.js"
   },
   {
-    "revision": "73c4262f703654489d49",
-    "url": "/example-kendo-react-intl/static/js/main.73c4262f.chunk.js"
+    "revision": "2cfe6bd2d2ce55dec07c",
+    "url": "/example-kendo-react-intl/static/js/main.2cfe6bd2.chunk.js"
   },
   {
     "revision": "897f67591134d00a1b28",
@@ -8644,11 +8644,11 @@ self.__precacheManifest = [
     "url": "/example-kendo-react-intl/static/js/runtime~main.a799188f.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/example-kendo-react-intl/static/media/Product.5d5d9eef.svg"
+    "revision": "49f98c8e3027a1c3b2b7a0d65b84a6a5",
+    "url": "/example-kendo-react-intl/static/media/Product.49f98c8e.svg"
   },
   {
-    "revision": "a454ea57e5ca01543632f5e260fc17ed",
+    "revision": "12cb120dc5dfadb314928f8a1af55f6d",
     "url": "/example-kendo-react-intl/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/example-kendo-react-intl/static/css/main.380f2748.chunk.css",
-  "main.js": "/example-kendo-react-intl/static/js/main.73c4262f.chunk.js",
-  "main.js.map": "/example-kendo-react-intl/static/js/main.73c4262f.chunk.js.map",
+  "main.js": "/example-kendo-react-intl/static/js/main.2cfe6bd2.chunk.js",
+  "main.js.map": "/example-kendo-react-intl/static/js/main.2cfe6bd2.chunk.js.map",
   "static/js/1.8fc4e4ab.chunk.js": "/example-kendo-react-intl/static/js/1.8fc4e4ab.chunk.js",
   "static/js/1.8fc4e4ab.chunk.js.map": "/example-kendo-react-intl/static/js/1.8fc4e4ab.chunk.js.map",
   "static/js/2.30e6c7a5.chunk.js": "/example-kendo-react-intl/static/js/2.30e6c7a5.chunk.js",
@@ -4320,9 +4320,9 @@
   "static/js/2158.ef6eb001.chunk.js.map": "/example-kendo-react-intl/static/js/2158.ef6eb001.chunk.js.map",
   "runtime~main.js": "/example-kendo-react-intl/static/js/runtime~main.a799188f.js",
   "runtime~main.js.map": "/example-kendo-react-intl/static/js/runtime~main.a799188f.js.map",
-  "static/media/Product.svg": "/example-kendo-react-intl/static/media/Product.5d5d9eef.svg",
+  "static/media/Product.svg": "/example-kendo-react-intl/static/media/Product.49f98c8e.svg",
   "static/css/main.380f2748.chunk.css.map": "/example-kendo-react-intl/static/css/main.380f2748.chunk.css.map",
   "index.html": "/example-kendo-react-intl/index.html",
-  "precache-manifest.f25c60d8baabad69e960e1f87ac7a760.js": "/example-kendo-react-intl/precache-manifest.f25c60d8baabad69e960e1f87ac7a760.js",
+  "precache-manifest.2ecf66b43942e827911ad0d04232faa7.js": "/example-kendo-react-intl/precache-manifest.2ecf66b43942e827911ad0d04232faa7.js",
   "service-worker.js": "/example-kendo-react-intl/service-worker.js"
 }
