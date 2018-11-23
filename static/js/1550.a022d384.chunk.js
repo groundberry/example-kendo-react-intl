@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1550],{2188:function(e){e.exports={locale:"Idioma",currency:"Moneda","product-name":"Fundamentos de React","product-description":"Aprende los fundamentos de React con este curso orientado a principiantes.","product-start-date":"Fecha de comienzo","product-seats-available":"Plazas disponibles","product-price":"Precio","add-to-cart":"A\xf1adir al carro"}}}]);
+//# sourceMappingURL=1550.a022d384.chunk.js.map

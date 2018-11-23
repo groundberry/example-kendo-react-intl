@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1549],{2187:function(t){t.exports={locale:"Locale",currency:"Currency","product-name":"React Fundamentals","product-description":"Get a better understanding of React fundamentals with this course targeted towards beginners.","product-start-date":"Start date","product-seats-available":"Seats available","product-price":"Price","add-to-cart":"Add to cart"}}}]);
+//# sourceMappingURL=1549.6c32904d.chunk.js.map
