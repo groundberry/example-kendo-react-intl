@@ -1,0 +1,39 @@
+.Product {
+  background-color: #fff;
+  box-shadow: 0px 12px 24px -8px rgba(0, 0, 0, 0.3);
+  display: flex;
+  float: left;
+  margin: 48px;
+  width: 640px;
+}
+
+.Product-image {
+  align-items: center;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+}
+
+.Product-details {
+  flex: 1;
+  padding: 32px;
+}
+
+.Product-name {
+  margin-top: 0;
+}
+
+.Product-cta {
+  padding: 0 32px 32px;
+  text-align: right;
+}
+
+.Product-button {
+  background-color: #febd69;
+  border: none;
+  border-radius: 5px;
+  color: #111;
+  font-size: inherit;
+  padding: 8px 16px;
+}

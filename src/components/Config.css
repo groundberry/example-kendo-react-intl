@@ -1,0 +1,14 @@
+.Config {
+  background-color: #fff;
+  box-shadow: 0px 12px 24px -8px rgba(0, 0, 0, 0.3);
+  display: grid;
+  float: right;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+  margin: 48px;
+  padding: 32px;
+}
+
+.Config label {
+  text-align: right;
+}
